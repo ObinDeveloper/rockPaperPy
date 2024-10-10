@@ -1,0 +1,4 @@
+- To start the game run the "main.py" program.
+- The game has added feature such as multiplayer, and displayed final score
+- Player has the opportunity to give their name and replay the party.
+- Program was run through "pycodestyle" and follows DRY as best as possible.
